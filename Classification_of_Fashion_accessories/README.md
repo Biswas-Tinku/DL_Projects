@@ -1,5 +1,5 @@
-# DL_Digit_recognization
-Vision AI fundamentals: Building a digit recognizer from scratch
+# Image_recognization
+Vision AI fundamentals: Building a image recognizer from scratch
 
 # Fashion-MNIST Classification Project
 
