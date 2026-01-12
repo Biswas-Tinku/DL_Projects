@@ -102,6 +102,12 @@ The dataset has images from different objects, animals, scenes, people etc. whic
 
 ![alt text](Output.jpg)
 
+> # Trained model
+
+[text](../../Transfer_Learning/best_weight_mobilenetv2.weights.h5) 
+[text](../../Transfer_Learning/best_weight_vgg16.weights.h5)
+[text](../../Transfer_Learning/best_weight_resnet50.weights.h5)
+
 > # Model Architecture
 
 > ResNet50  
