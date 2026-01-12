@@ -105,7 +105,9 @@ The dataset has images from different objects, animals, scenes, people etc. whic
 > # Trained model
 
 [best_weight_mobilenetv2.weights.h5](https://github.com/Biswas-Tinku/DL_Projects/blob/main/Object_identification_using_Transfer_learning/best_weight_mobilenetv2.weights.h5)
+
 [best_weight_vgg16.weights.h5](https://github.com/Biswas-Tinku/DL_Projects/blob/main/Object_identification_using_Transfer_learning/best_weight_vgg16.weights.h5)
+
 [best_weight_resnet50.weights.h5]()
 
 > # Model Architecture
